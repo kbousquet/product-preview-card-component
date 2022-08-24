@@ -26,7 +26,7 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 
-### Screenshot
+### Screenshots
 
 ![ScreenShot](/images/desktop.JPG)
 ![ScreenShot](/images/mobile.JPG)
@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- [View the Code] (https://github.com/kbousquet/product-preview-card-component)
-- [View the Live Page] [Add live site URL here](https://kbousquet.github.io/product-preview-card-component/)
+- [View the Code](https://github.com/kbousquet/product-preview-card-component)
+- [View the Live Page](https://kbousquet.github.io/product-preview-card-component/)
 
 
 ## My process
