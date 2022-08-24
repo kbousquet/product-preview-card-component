@@ -28,14 +28,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/desktop.jpg)
-![](./images/mobile.jpg)
+![ScreenShot](/images/desktop.JPG)
+![ScreenShot](/images/mobile.JPG)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [View the Code] (https://github.com/kbousquet/product-preview-card-component)
+- [View the Live Page] [Add live site URL here](https://kbousquet.github.io/product-preview-card-component/)
 
 
 ## My process
